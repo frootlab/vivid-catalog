@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://www.frootlab.org/images/fig/brea.svg" width=350px>
+  <figure>
+    <img src="https://www.frootlab.org/images/fig/vivid-store.svg" width=350px>
+  </figure>
 </div>
 
 Brea
